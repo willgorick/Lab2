@@ -4,3 +4,5 @@ Activity 1: https://github.com/willgorick/hello-world
 Activity 3: https://github.com/willgorick/Lab2Fork-103
             https://github.com/UVA-CS3240-S18/Lab2Fork-103/pull/10
             I simplify some of the math in Wendys.py from three lines down to just one in order to shorten the overall length of the code.
+Activity 4: https://github.com/UVA-CS3240-S18/IveGotIssues/issues/64
+Activity 5: https://github.com/willgorick/hello-world/blob/master/.gitignore
